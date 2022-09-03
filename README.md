@@ -2,26 +2,24 @@
 
 Este el proyecto inicial para crear aplicaciones web utilizando webpack.
 
-### Quick Start:
+## Quick Start
 
 Recuerda reconstruir los módulos de node
-```
+
+``` node
 npm install
 ```
 
-Para reconstruir el build, recuerda: 
+Para reconstruir el build, recuerda:
 
-* Para 'production':
-```
+- Para 'production':
+
+``` node
 npm run build
 ```
-* Para 'development':
-```
+
+- Para 'development':
+
+``` node
 npm run build:dev
 ```
-
-
-
-
-
-
